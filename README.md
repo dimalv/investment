@@ -1,2 +1,2 @@
-# investment
+# Investment
 Calculations related to investment
